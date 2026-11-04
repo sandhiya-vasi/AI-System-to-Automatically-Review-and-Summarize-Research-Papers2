@@ -1,6 +1,6 @@
 ﻿##  🤖 AI-Powered Research Paper Review and Summarization System
 
-##📌 About the Project
+## 📌 About the Project
 
 The AI-Powered Research Paper Review and Summarization System is an intelligent application developed to automate the process of searching, analyzing, reviewing, and summarizing academic research papers.
 
@@ -8,7 +8,7 @@ The system uses Artificial Intelligence (AI), Natural Language Processing (NLP),
 
 It helps researchers and students reduce manual effort and improve the efficiency of academic literature review.
 
-##🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Automate academic research paper searching.
 - Extract important information from PDF research papers.
@@ -18,7 +18,7 @@ It helps researchers and students reduce manual effort and improve the efficienc
 - Provide AI-based review and revision suggestions.
 - Generate references using APA formatting.
 
-##✨ Key Features
+## ✨ Key Features
 
 - Automated Paper Search: Search academic research papers using Semantic Scholar API.
 - PDF Text Extraction: Extract text and important sections from research documents.
@@ -30,7 +30,7 @@ It helps researchers and students reduce manual effort and improve the efficienc
 - Revision Workflow: Refine generated research content based on review feedback.
 - APA References: Format academic references according to APA style.
 
-##⚙️ System Architecture
+## ⚙️ System Architecture
 
 The application follows an AI-powered workflow with multiple stages:
 
@@ -46,7 +46,7 @@ The application follows an AI-powered workflow with multiple stages:
 10. Content Review and Revision
 11. Final Research Draft Generation
 
-##🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Programming Language
 
@@ -71,7 +71,7 @@ APIs and AI Technologies
 - Large Language Models (LLMs)
 - Generative AI
 
-##📂 Project Modules
+## 📂 Project Modules
 
 Module| Description
 Paper Search| Finds relevant academic research papers
@@ -84,7 +84,7 @@ Content Generation| Creates structured research sections
 Review and Revision| Reviews and improves generated content
 Reference Formatting| Generates APA-style references
 
-##🚀 Installation and Setup
+## 🚀 Installation and Setup
 
 Step 1: Clone the Repository
 
@@ -123,7 +123,7 @@ python app.py
 
 Replace "app.py" with your actual Python entry-point filename if different.
 
-##📊 Expected Outcomes
+## 📊 Expected Outcomes
 
 - Faster research paper analysis.
 - Automated research summarization.
@@ -131,7 +131,7 @@ Replace "app.py" with your actual Python entry-point filename if different.
 - Structured research draft generation.
 - Reduced manual literature review effort.
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 - Integration with additional academic research databases.
 - Advanced research similarity detection.
@@ -140,7 +140,7 @@ Replace "app.py" with your actual Python entry-point filename if different.
 - Enhanced user interface and dashboard.
 - Support for larger research paper collections.
 
-##🎓 Project Information
+## 🎓 Project Information
 
 - Project Title: AI-Powered Research Paper Review and Summarization System
 - Domain: Artificial Intelligence
@@ -149,15 +149,15 @@ Replace "app.py" with your actual Python entry-point filename if different.
 - Framework: Gradio
 - Project Type: AI-Based Research Automation
 
-##👩‍💻 Developed For
+## 👩‍💻 Developed For
 
 Academic and educational purposes.
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This system is designed to assist with academic research and literature reviews. AI-generated summaries and content should be verified against original research papers before academic use.
 
-##📄 License
+## 📄 License
 
 This project is intended for educational and research purposes. Add an appropriate open-source license if you wish to permit public reuse.
 
