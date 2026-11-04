@@ -48,11 +48,11 @@ The application follows an AI-powered workflow with multiple stages:
 
 ## 🛠️ Technology Stack
 
-Programming Language
+**Programming Language**
 
 - Python 3.x
 
-Frameworks and Libraries
+**Frameworks and Libraries**
 
 - Gradio
 - LangChain
@@ -63,7 +63,7 @@ Frameworks and Libraries
 - PyMuPDF4LLM
 - Tiktoken
 
-APIs and AI Technologies
+**APIs and AI Technologies**
 
 - OpenAI API
 - Semantic Scholar API
@@ -73,42 +73,42 @@ APIs and AI Technologies
 
 ## 📂 Project Modules
 
-Module| Description
-Paper Search| Finds relevant academic research papers
-PDF Extraction| Extracts text from research PDFs
-Information Extraction| Identifies important research information
-Research Analysis| Analyzes extracted research content
-Paper Comparison| Compares findings across multiple papers
-AI Summarization| Generates research summaries
-Content Generation| Creates structured research sections
-Review and Revision| Reviews and improves generated content
-Reference Formatting| Generates APA-style references
+*Module*| Description
+*Paper Search*| Finds relevant academic research papers
+*PDF Extraction*| Extracts text from research PDFs
+*Information Extraction* Identifies important research information
+*Research Analysis*| Analyzes extracted research content
+*Paper Comparison*| Compares findings across multiple papers
+*AI Summarization*| Generates research summaries
+*Content Generation*| Creates structured research sections
+*Review and Revision*| Reviews and improves generated content
+*Reference Formatting*| Generates APA-style references
 
 ## 🚀 Installation and Setup
 
-Step 1: Clone the Repository
+**Step 1**: Clone the Repository
 
-git clone https://github.com/sandhiya-vasi/AI-System-to-Automatically-Review-and-Summarize-Research-Papers2.git
+git cl8one https://github.com/sandhiya-vasi/AI-System-to-Automatically-Review-and-Summarize-Research-Papers2.git
 
-Step 2: Navigate to Project Folder
+**Step 2**: Navigate to Project Folder
 
 cd AI-System-to-Automatically-Review-and-Summarize-Research-Papers2
 
-Step 3: Create Virtual Environment
+**Step 3**: Create Virtual Environment
 
 python -m venv venv
 
-Step 4: Activate Virtual Environment
+**Step 4**: Activate Virtual Environment
 
 Windows:
 
 venv\Scripts\activate
 
-Step 5: Install Required Dependencies
+**Step 5**: Install Required Dependencies
 
 pip install -r requirements.txt
 
-Step 6: Configure API Keys
+**Step 6**: Configure API Keys
 
 Create a ".env" file in the project directory.
 
@@ -117,7 +117,7 @@ SEMANTIC_SCHOLAR_API_KEY=your_semantic_scholar_api_key
 
 Add only the API keys required by your implementation. Never upload your actual API keys to GitHub.
 
-Step 7: Run the Application
+**Step 7**: Run the Application
 
 python app.py
 
