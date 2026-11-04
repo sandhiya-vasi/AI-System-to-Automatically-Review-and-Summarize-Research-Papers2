@@ -63,7 +63,7 @@ Frameworks and Libraries
 - PyMuPDF4LLM
 - Tiktoken
 
-*APIs and AI Technologies*
+APIs and AI Technologies
 
 - OpenAI API
 - Semantic Scholar API
